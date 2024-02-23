@@ -1,0 +1,5 @@
+name: Zombies
+version: 1.0
+main: dev.yave.Main
+commands:
+  debug:
